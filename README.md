@@ -1,2 +1,6 @@
-# note_app
-A PyQt app for noting stuff! 
+# Note App
+A PyQt app for noting stuff!
+
+## Requirements
+- PyQt 6
+- Json
